@@ -74,6 +74,8 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="CompetitonDocumentations\CopyFullpath.pptx" />
+    <None Include="CompetitonDocumentations\ThuyetMinhPhanMemCopyFullPath.doc" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
